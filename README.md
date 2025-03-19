@@ -34,7 +34,7 @@
 ### Установка зависимостей
 Установите необходимые библиотеки через pip:
 ```
-pip install pandas numpy xgboost matplotlib seaborn scikit-learn 
+pip install pandas numpy xgboost matplotlib seaborn scikit-learn openpyxl 
 ```
 
 ---
