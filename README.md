@@ -126,12 +126,15 @@ pip install pandas numpy xgboost matplotlib seaborn scikit-learn
 ---
 
 ### Результаты
-![image](https://github.com/user-attachments/assets/faaf1552-946b-4849-9fcd-0487725211f9)
+![image](https://github.com/user-attachments/assets/f5e4e789-54d8-469e-86bd-cede4547e452)
+
 
 **Метрики качества на тестовой выборке:**
 ```
 MAE: 1.56, RMSE: 7.29, R²: 0.98, MAPE: 4.8%
 ```
-![image](https://github.com/user-attachments/assets/801f6dc9-b90a-4576-83c2-8ff87824cd9a)
-![image](https://github.com/user-attachments/assets/5ffd0320-fe2a-4893-8d78-5baa1d641c6a)
+![image](https://github.com/user-attachments/assets/829f1368-9380-4dfb-b1d4-d2e788b25ccd)
+
+![image](https://github.com/user-attachments/assets/acf0d1f2-fa7c-4908-bca2-c1cd27def0b9)
+
 
